@@ -122,7 +122,7 @@
 
 ---
 
-## 🛡️ `./currently_learning`
+## 🛡️ `Currently_Learning`
 
 <div align="center">
 
