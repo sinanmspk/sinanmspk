@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ MUHAMMED SINAN P K
+# 🛡️ <span style="color:#00FF88;">MUHAMMED SINAN P K</span>
 
 ### 🔐 Cybersecurity Student | 🎯 Aspiring Security Analyst
 
@@ -86,9 +86,23 @@
 
 ### 🔐 Cybersecurity
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+
+</div>
+
 🏅 **Introduction to Cybersecurity**
 **Cisco Networking Academy**
 📅 Completed: July 18, 2026
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+
+</div>
 
 🏅 **Cybersecurity Fundamentals**
 **IBM SkillsBuild**
@@ -98,7 +112,16 @@
 **IBM SkillsBuild**
 📅 Issued: July 26, 2026
 
+---
+
 ### 🤖 Generative AI
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+</div>
 
 🏅 **Career Essentials in Generative AI**
 **Microsoft & LinkedIn Learning**
