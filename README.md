@@ -1,7 +1,5 @@
 <div align="center">
 
-<!-- CYBERSECURITY HEADER -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:003B2F,100:00FF88&text=MUHAMMED%20SINAN%20P%20K&fontColor=00FF88&fontSize=42&fontAlignY=40&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20%7C%20ASPIRING%20SECURITY%20ANALYST&descAlignY=62&descSize=16" width="100%" alt="Cybersecurity Header"/>
 
 <br>
@@ -24,22 +22,103 @@
 
 ## 🧑‍💻 `whoami`
 
-```text
-┌──(sinan㉿cybersec)-[~]
-└─$ whoami
+<div align="center">
 
-Muhammed Sinan P K
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Accessing+identity+database...;%3E+Identity+verified+%E2%9C%93;%3E+Welcome%2C+I'm+Muhammed+Sinan+P+K+%F0%9F%91%8B;%3E+Cybersecurity+Student+%7C+Security+Enthusiast" alt="Who Am I Animation"/>
 
-[+] Cybersecurity Student
-[+] Aspiring Security Analyst
-[+] B.Sc. Computer Science Graduate
-[+] CTF Enthusiast
-[+] Always Learning
-```
+<br>
 
-🎓 I'm a **B.Sc. Computer Science graduate from the University of Calicut**, currently pursuing cybersecurity to build my career in the security field.
+<table>
+<tr>
+<td align="center" width="50%">
 
-🔐 I'm interested in understanding how systems work, how they can be attacked, and most importantly, how they can be protected.
+### 🛡️ IDENTITY
+
+<img src="https://img.shields.io/badge/USER-MUHAMMED%20SINAN%20P%20K-0D1117?style=for-the-badge&logo=linux&logoColor=00FF88" alt="User"/>
+
+<br><br>
+
+🎓 **B.Sc. Computer Science Graduate**
+
+🏫 **University of Calicut**
+
+📍 **Kerala, India**
+
+🎯 **Aspiring Security Analyst**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🔐 SYSTEM STATUS
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
+
+<br><br>
+
+🟢 **Cybersecurity Learning**
+
+🟢 **Security Research**
+
+🟢 **CTF Challenges**
+
+🟢 **Continuous Learning**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### ⚡ `SECURITY PROFILE`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=00FF88&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Exploring+Cybersecurity;%5B%2B%5D+Learning+Linux+%26+Networking;%5B%2B%5D+Practicing+OSINT+%26+Web+Security;%5B%2B%5D+Exploring+SOC+%26+Blue+Team;%5B%2B%5D+Solving+CTF+Challenges;%5B%2B%5D+Building+Practical+Security+Skills" alt="Security Profile Animation"/>
+
+<br>
+
+<table>
+<tr>
+
+<td align="center">
+
+🔐<br> <b>CYBERSECURITY</b><br> <sub>Learning & Practicing</sub>
+
+</td>
+
+<td align="center">
+
+🐧<br> <b>LINUX</b><br> <sub>Systems & Security</sub>
+
+</td>
+
+<td align="center">
+
+🔎<br> <b>OSINT</b><br> <sub>Investigation</sub>
+
+</td>
+
+<td align="center">
+
+🏴‍☠️<br> <b>CTF</b><br> <sub>Problem Solving</sub>
+
+</td>
+
+<td align="center">
+
+🌐<br> <b>NETWORKING</b><br> <sub>Security Fundamentals</sub>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+### 🧠 `CURRENT MISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+Learn+%E2%86%92+Practice+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Secure;%3E+Building+my+path+into+Cybersecurity;%3E+Turning+curiosity+into+security+skills;%3E+Always+learning.+Always+improving." alt="Current Mission Animation"/>
+
+</div>
 
 ---
 
@@ -109,7 +188,7 @@ Muhammed Sinan P K
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
 
 </div>
 
@@ -121,7 +200,7 @@ Muhammed Sinan P K
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
 
 </div>
 
@@ -139,8 +218,8 @@ Muhammed Sinan P K
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 
 </div>
 
@@ -218,17 +297,21 @@ Muhammed Sinan P K
 
 ## 🧰 Technical Focus
 
-```text
-Cybersecurity       ███████████████░░░░░
-Linux               ████████████░░░░░░░░
-Networking          ███████████░░░░░░░░░
-OSINT               ███████████░░░░░░░░░
-Web Security        ██████████░░░░░░░░░░
-Ethical Hacking     █████████░░░░░░░░░░░
-Python              ████████░░░░░░░░░░░░
-```
+<div align="center">
 
-> 📚 These represent my current learning focus and are continuously developing.
+<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black"/>
+<img src="https://img.shields.io/badge/Web%20Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-00FF88?style=for-the-badge&logo=git&logoColor=black"/>
+
+</div>
+
+<br>
+
+> 📚 I'm continuously developing my technical skills through cybersecurity learning, practical exploration, and hands-on challenges.
 
 ---
 
@@ -266,7 +349,7 @@ Python              ████████░░░░░░░░░░░░
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF88,50:003B2F,100:0D1117&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF88,50:003B2F,100:0D1117&section=footer" width="100%" alt="Footer"/>
 
 ### 🛡️ `LEARN` • `PRACTICE` • `SECURE` • `REPEAT`
 
