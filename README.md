@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Initializing+Cybersecurity+Profile...;%5B%2B%5D+Loading+Security+Modules...;%5B%2B%5D+Learning+%7C+Practicing+%7C+Securing;%5B%2B%5D+SOC+%7C+OSINT+%7C+Linux+%7C+Web+Security;%5B%2B%5D+Welcome+to+my+Cyber+Space+%F0%9F%9B%A1%EF%B8%8F" alt="Cybersecurity Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=Cybersecurity+Student;Aspiring+Security+Analyst;B.Sc.+Computer+Science+Graduate;Learning+%7C+Practicing+%7C+Securing" alt="Cybersecurity Typing Animation"/>
 
 <br>
 
@@ -20,49 +20,49 @@
 
 ---
 
-## 🧑‍💻 `whoami`
+## 👨‍💻 Who Am I?
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00FF88&center=true&vCenter=true&width=700&lines=%3E+Accessing+identity+database...;%3E+Identity+verified+%E2%9C%93;%3E+Welcome%2C+I'm+Muhammed+Sinan+P+K+%F0%9F%91%8B;%3E+Cybersecurity+Student+%7C+Security+Enthusiast" alt="Who Am I Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=700&lines=Cybersecurity+Student;Aspiring+Security+Analyst;Learning+%7C+Practicing+%7C+Growing" alt="Professional Introduction"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=00FF88&section=header" width="65%" alt="Divider"/>
+
+</div>
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="60%" valign="top">
 
-### 🛡️ IDENTITY
+### 👋 Hello, I'm Muhammed Sinan P K
 
-<img src="https://img.shields.io/badge/USER-MUHAMMED%20SINAN%20P%20K-0D1117?style=for-the-badge&logo=linux&logoColor=00FF88" alt="User"/>
+I'm a **B.Sc. Computer Science graduate from the University of Calicut**, currently focused on building a strong foundation in **cybersecurity** and developing the practical skills required for a career in the security field.
+
+My interests span across **SOC / Blue Team operations, ethical hacking, OSINT, network security, web application security, Linux, digital forensics, cloud security, GRC, threat hunting, and malware analysis**.
+
+I'm particularly interested in understanding how systems and applications work, identifying security weaknesses, and learning how those weaknesses can be detected, investigated, and secured.
+
+</td>
+
+<td width="40%" align="center" valign="middle">
+
+<img src="https://img.shields.io/badge/CYBERSECURITY-00FF88?style=for-the-badge&logo=shield&logoColor=black" alt="Cybersecurity"/>
 
 <br><br>
 
-🎓 **B.Sc. Computer Science Graduate**
+<img src="https://img.shields.io/badge/ASPIRING-SECURITY%20ANALYST-0D1117?style=for-the-badge&logo=protonvpn&logoColor=00FF88" alt="Security Analyst"/>
 
-🏫 **University of Calicut**
+<br><br>
 
 📍 **Kerala, India**
 
-🎯 **Aspiring Security Analyst**
+🎓 **B.Sc. Computer Science**
 
-</td>
-
-<td align="center" width="50%">
-
-### 🔐 SYSTEM STATUS
-
-<img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Status"/>
-
-<br><br>
-
-🟢 **Cybersecurity Learning**
-
-🟢 **Security Research**
-
-🟢 **CTF Challenges**
-
-🟢 **Continuous Learning**
+🔐 **Security Focused**
 
 </td>
 </tr>
@@ -70,92 +70,44 @@
 
 <br>
 
-### ⚡ `SECURITY PROFILE`
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=00FF88&center=true&vCenter=true&width=800&lines=%5B%2B%5D+Exploring+Cybersecurity;%5B%2B%5D+Learning+Linux+%26+Networking;%5B%2B%5D+Practicing+OSINT+%26+Web+Security;%5B%2B%5D+Exploring+SOC+%26+Blue+Team;%5B%2B%5D+Solving+CTF+Challenges;%5B%2B%5D+Building+Practical+Security+Skills" alt="Security Profile Animation"/>
-
-<br>
-
-<table>
-<tr>
-
-<td align="center">
-
-🔐<br> <b>CYBERSECURITY</b><br> <sub>Learning & Practicing</sub>
-
-</td>
-
-<td align="center">
-
-🐧<br> <b>LINUX</b><br> <sub>Systems & Security</sub>
-
-</td>
-
-<td align="center">
-
-🔎<br> <b>OSINT</b><br> <sub>Investigation</sub>
-
-</td>
-
-<td align="center">
-
-🏴‍☠️<br> <b>CTF</b><br> <sub>Problem Solving</sub>
-
-</td>
-
-<td align="center">
-
-🌐<br> <b>NETWORKING</b><br> <sub>Security Fundamentals</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-### 🧠 `CURRENT MISSION`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=750&lines=%3E+Learn+%E2%86%92+Practice+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Secure;%3E+Building+my+path+into+Cybersecurity;%3E+Turning+curiosity+into+security+skills;%3E+Always+learning.+Always+improving." alt="Current Mission Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=800&lines=Curious+about+technology.+Focused+on+security.;Building+knowledge+through+continuous+learning+and+practice.;Working+towards+a+career+in+Cybersecurity." alt="Professional Mission"/>
 
 </div>
 
 ---
 
-## 🛡️ `Currently_Learning`
+## 🛡️ Currently Learning
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=securityscorecard&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=securityscorecard&logoColor=black" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black" alt="Networking"/>
+<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/Ethical_Hacking-00FF88?style=for-the-badge&logo=kalilinux&logoColor=black"/>
-<img src="https://img.shields.io/badge/SOC_/_Blue_Team-00FF88?style=for-the-badge&logo=shield&logoColor=black"/>
-<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web_Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black"/>
+<img src="https://img.shields.io/badge/Ethical_Hacking-00FF88?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Ethical Hacking"/>
+<img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-00FF88?style=for-the-badge&logo=shield&logoColor=black" alt="SOC Blue Team"/>
+<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black" alt="OSINT"/>
+<img src="https://img.shields.io/badge/Web%20Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black" alt="Web Security"/>
 
 </div>
 
 ---
 
-## 🎯 `security_interests`
+## 🎯 Cybersecurity Interests
 
-<div align="center">
-
-| 🛡️ Defensive Security | ⚔️ Offensive Security      |
-| ---------------------- | -------------------------- |
-| SOC / Blue Team        | Ethical Hacking / Red Team |
-| Threat Hunting         | Web Application Security   |
-| Digital Forensics      | OSINT                      |
-| Malware Analysis       | Network Security           |
-| GRC                    | Linux Security             |
-| Cloud Security         | CTFs                       |
-
-</div>
+| 🛡️ Security Area | 🛡️ Security Area          |
+| ----------------- | -------------------------- |
+| SOC / Blue Team   | Ethical Hacking / Red Team |
+| Threat Hunting    | Web Application Security   |
+| Digital Forensics | OSINT                      |
+| Malware Analysis  | Network Security           |
+| GRC               | Linux Security             |
+| Cloud Security    | CTFs                       |
 
 ---
 
@@ -171,10 +123,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
 
 </div>
 
@@ -229,11 +181,11 @@
 
 ---
 
-# 📊 `github_stats`
+# 📊 GitHub Stats
 
 <div align="center">
 
-### ⚡ SYSTEM PERFORMANCE
+### ⚡ GitHub Overview
 
 <img src="https://github-readme-stats.vercel.app/api?username=sinanmspk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" width="49%" alt="GitHub Stats"/>
 
@@ -241,7 +193,7 @@
 
 <br><br>
 
-### 🧠 MOST USED LANGUAGES
+### 🧠 Most Used Languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmspk&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" width="42%" alt="Top Languages"/>
 
@@ -299,13 +251,13 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black"/>
-<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
-<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web%20Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-00FF88?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Cybersecurity"/>
+<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black" alt="Networking"/>
+<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black" alt="Python"/>
+<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black" alt="OSINT"/>
+<img src="https://img.shields.io/badge/Web%20Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black" alt="Web Security"/>
+<img src="https://img.shields.io/badge/Git-00FF88?style=for-the-badge&logo=git&logoColor=black" alt="Git"/>
 
 </div>
 
@@ -319,7 +271,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+a+career+in+Cybersecurity;Learning+Offensive+%26+Defensive+Security;Developing+Practical+Security+Skills;Working+towards+becoming+a+Security+Analyst" alt="Career Goal Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+a+career+in+Cybersecurity;Learning+Offensive+%26+Defensive+Security;Developing+Practical+Security+Skills;Working+towards+becoming+a+Security+Analyst" alt="Career Goal Animation"/>
 
 </div>
 
@@ -332,11 +284,11 @@
 <div align="center">
 
 <a href="https://github.com/sinanmspk">
-<img src="https://img.shields.io/badge/GitHub-sinanmspk-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-sinanmspk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sinanmspk">
-<img src="https://img.shields.io/badge/LinkedIn-sinanmspk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-sinanmspk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <br><br>
@@ -355,6 +307,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Stay+curious.+Stay+secure.+%F0%9F%94%90" alt="Footer Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&size=16&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Stay+curious.+Stay+secure.+%F0%9F%94%90" alt="Footer Animation"/>
 
 </div>
