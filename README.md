@@ -1,63 +1,82 @@
 <div align="center">
 
-# 🛡️ <span style="color:#00FF88;">MUHAMMED SINAN P K</span>
+<!-- CYBERSECURITY HEADER -->
 
-### 🔐 Cybersecurity Student | 🎯 Aspiring Security Analyst
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=650&lines=Cybersecurity+Student;Aspiring+Security+Analyst;B.Sc.+Computer+Science+Graduate;Learning+%7C+Practicing+%7C+Securing" alt="Typing SVG" />
-</p>
-
-📍 **Malappuram, Kerala, India**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,50:003B2F,100:00FF88&text=MUHAMMED%20SINAN%20P%20K&fontColor=00FF88&fontSize=42&fontAlignY=40&animation=twinkling&desc=CYBERSECURITY%20STUDENT%20%7C%20ASPIRING%20SECURITY%20ANALYST&descAlignY=62&descSize=16" width="100%" alt="Cybersecurity Header"/>
 
 <br>
 
-`🔐 CYBERSECURITY`   `🐧 LINUX`   `🌐 NETWORKING`   `🏴‍☠️ CTF`   `🔎 OSINT`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Initializing+Cybersecurity+Profile...;%5B%2B%5D+Loading+Security+Modules...;%5B%2B%5D+Learning+%7C+Practicing+%7C+Securing;%5B%2B%5D+SOC+%7C+OSINT+%7C+Linux+%7C+Web+Security;%5B%2B%5D+Welcome+to+my+Cyber+Space+%F0%9F%9B%A1%EF%B8%8F" alt="Cybersecurity Typing Animation"/>
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Online"/>
+  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20STUDENT-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Cybersecurity Student"/>
+  <img src="https://img.shields.io/badge/FOCUS-SECURITY-00FF88?style=for-the-badge&logo=shield&logoColor=black" alt="Security"/>
+</p>
+
+📍 **Malappuram, Kerala, India**
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 `whoami`
 
-🎓 I'm a **B.Sc. Computer Science graduate from the University of Calicut**, currently pursuing cybersecurity to build my career in the cybersecurity field.
+```text
+┌──(sinan㉿cybersec)-[~]
+└─$ whoami
 
-🔐 I'm focused on developing practical knowledge in cybersecurity and continuously learning about security, systems, networks, and both defensive and offensive security concepts.
+Muhammed Sinan P K
 
-🚀 My goal is to continuously improve my technical knowledge, gain practical experience, and grow as a cybersecurity professional.
+[+] Cybersecurity Student
+[+] Aspiring Security Analyst
+[+] B.Sc. Computer Science Graduate
+[+] CTF Enthusiast
+[+] Always Learning
+```
 
----
+🎓 I'm a **B.Sc. Computer Science graduate from the University of Calicut**, currently pursuing cybersecurity to build my career in the security field.
 
-## 🎓 Education
-
-🎓 **B.Sc. Computer Science**
-🏫 **University of Calicut**
-
----
-
-## 🛡️ Currently Learning
-
-* 🔐 Cybersecurity
-* 🐧 Linux
-* 🌐 Networking
-* 🐍 Python
-* ⚔️ Ethical Hacking
-* 🛡️ SOC / Blue Team
-* 🔎 OSINT
-* 🌐 Web Security
+🔐 I'm interested in understanding how systems work, how they can be attacked, and most importantly, how they can be protected.
 
 ---
 
-## 🎯 Cybersecurity Interests
+## 🛡️ `./currently_learning`
 
-| 🔐 Security Area             | 🔐 Security Area              |
-| ---------------------------- | ----------------------------- |
-| 🛡️ SOC / Blue Team          | ⚔️ Ethical Hacking / Red Team |
-| 🔎 OSINT                     | 🌐 Network Security           |
-| 🕸️ Web Application Security | 🔬 Digital Forensics          |
-| 🐧 Linux                     | ☁️ Cloud Security             |
-| 📋 GRC                       | 🎯 Threat Hunting             |
-| 🦠 Malware Analysis          | 🔐 Information Security       |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cybersecurity-00FF88?style=for-the-badge&logo=securityscorecard&logoColor=black"/>
+<img src="https://img.shields.io/badge/Linux-00FF88?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&logo=cisco&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-00FF88?style=for-the-badge&logo=python&logoColor=black"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Ethical_Hacking-00FF88?style=for-the-badge&logo=kalilinux&logoColor=black"/>
+<img src="https://img.shields.io/badge/SOC_/_Blue_Team-00FF88?style=for-the-badge&logo=shield&logoColor=black"/>
+<img src="https://img.shields.io/badge/OSINT-00FF88?style=for-the-badge&logo=google&logoColor=black"/>
+<img src="https://img.shields.io/badge/Web_Security-00FF88?style=for-the-badge&logo=owasp&logoColor=black"/>
+
+</div>
+
+---
+
+## 🎯 `security_interests`
+
+<div align="center">
+
+| 🛡️ Defensive Security | ⚔️ Offensive Security      |
+| ---------------------- | -------------------------- |
+| SOC / Blue Team        | Ethical Hacking / Red Team |
+| Threat Hunting         | Web Application Security   |
+| Digital Forensics      | OSINT                      |
+| Malware Analysis       | Network Security           |
+| GRC                    | Linux Security             |
+| Cloud Security         | CTFs                       |
+
+</div>
 
 ---
 
@@ -69,16 +88,18 @@
 
 **NIRMITHI** is a **construction management system** developed as my final-year B.Sc. Computer Science project.
 
-### 🛠️ Technology Stack
+### 🛠️ MERN Stack
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-</p>
+<div align="center">
 
-**MERN Stack:** MongoDB • Express.js • React • Node.js
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+</div>
+
+**MongoDB • Express.js • React • Node.js**
 
 ---
 
@@ -88,7 +109,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+<img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
@@ -100,7 +121,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM"/>
+<img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 
 </div>
 
@@ -118,14 +139,44 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/MICROSOFT-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </div>
 
 🏅 **Career Essentials in Generative AI**
 **Microsoft & LinkedIn Learning**
 📅 Completed: August 11, 2026
+
+---
+
+# 📊 `github_stats`
+
+<div align="center">
+
+### ⚡ SYSTEM PERFORMANCE
+
+<img src="https://github-readme-stats.vercel.app/api?username=sinanmspk&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00FF88&text_color=C9D1D9&ring_color=00FF88" width="49%" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sinanmspk&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF" width="49%" alt="GitHub Streak"/>
+
+<br><br>
+
+### 🧠 MOST USED LANGUAGES
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmspk&layout=donut&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=C9D1D9" width="42%" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sinanmspk&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -141,61 +192,55 @@
 
 ## ❤️ Personal Interests
 
-* 🔐 Cybersecurity & Information Security
-* 🏴‍☠️ CTFs & Cybersecurity Challenges
-* 💻 Computer Science & Technology
-* 🐧 Linux & Open-Source Technologies
-* 🔎 OSINT & Digital Investigation
-* 🌐 Networking & Web Security
-* 🎨 Editing & Creative Work
-* 🎵 Music
-* 🎮 Gaming
-* ✈️ Travel
-* 🧠 Learning New Technologies
-
----
-
-## 🧰 Skills
-
-I'm currently building and expanding my technical skill set through cybersecurity learning and practical exploration.
-
-> 📚 Technical skills and programming languages will be added as I continue developing them.
-
----
-
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sinanmspk&show_icons=true&hide_border=true&rank_icon=github" alt="Sinan's GitHub Stats"/>
+🔐 Cybersecurity   •  
+🏴‍☠️ CTFs   •  
+🐧 Linux   •  
+🔎 OSINT
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=sinanmspk&hide_border=true" alt="GitHub Streak"/>
+🌐 Networking   •  
+🕸️ Web Security   •  
+🎨 Editing   •  
+🎵 Music
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinanmspk&layout=compact&hide_border=true" alt="Top Languages"/>
+🎮 Gaming   •  
+✈️ Travel   •  
+🧠 Learning New Technologies
 
 </div>
 
 ---
 
-## 🏅 GitHub Profile
+## 🧰 Technical Focus
 
-<div align="center">
+```text
+Cybersecurity       ███████████████░░░░░
+Linux               ████████████░░░░░░░░
+Networking          ███████████░░░░░░░░░
+OSINT               ███████████░░░░░░░░░
+Web Security        ██████████░░░░░░░░░░
+Ethical Hacking     █████████░░░░░░░░░░░
+Python              ████████░░░░░░░░░░░░
+```
 
-<img src="https://komarev.com/ghpvc/?username=sinanmspk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-
-</div>
+> 📚 These represent my current learning focus and are continuously developing.
 
 ---
 
 ## 🎯 Career Goal
 
-🔐 My goal is to **build a career in cybersecurity**, continuously develop my technical skills, gain practical experience, and grow as a cybersecurity professional.
+<div align="center">
 
-I'm working toward becoming a well-rounded security professional with knowledge across both **offensive and defensive cybersecurity**.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Building+a+career+in+Cybersecurity;Learning+Offensive+%26+Defensive+Security;Developing+Practical+Security+Skills;Working+towards+becoming+a+Security+Analyst" alt="Career Goal Animation"/>
+
+</div>
+
+🔐 My goal is to **build a career in cybersecurity**, continuously develop my technical skills, gain practical experience, and grow as a cybersecurity professional.
 
 ---
 
@@ -204,12 +249,16 @@ I'm working toward becoming a well-rounded security professional with knowledge 
 <div align="center">
 
 <a href="https://github.com/sinanmspk">
-  <img src="https://img.shields.io/badge/GitHub-sinanmspk-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-sinanmspk-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sinanmspk">
-  <img src="https://img.shields.io/badge/LinkedIn-sinanmspk-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-sinanmspk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=sinanmspk&label=PROFILE%20VIEWS&color=00FF88&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -217,14 +266,12 @@ I'm working toward becoming a well-rounded security professional with knowledge 
 
 <div align="center">
 
-### 🛡️ Learning • 🧠 Practicing • 🚀 Growing • 🔐 Securing
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00FF88,50:003B2F,100:0D1117&section=footer" width="100%"/>
+
+### 🛡️ `LEARN` • `PRACTICE` • `SECURE` • `REPEAT`
 
 <br>
 
-> **"Always learning, always improving, and always curious about how technology can be made more secure."**
-
-<br>
-
-⭐ **Thanks for visiting my profile!** ⭐
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00FF88&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Stay+curious.+Stay+secure.+%F0%9F%94%90" alt="Footer Animation"/>
 
 </div>
