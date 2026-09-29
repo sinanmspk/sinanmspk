@@ -82,20 +82,6 @@ I'm particularly interested in understanding how systems and applications work, 
 
 <div align="center">
 
-### 🔐 Cybersecurity
-
-<img src="https://skillicons.dev/icons?i=linux,python" alt="Linux and Python"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=shield&logoColor=00FF88" alt="Cybersecurity"/>
-<img src="https://img.shields.io/badge/Ethical_Hacking-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00FF88" alt="Ethical Hacking"/>
-<img src="https://img.shields.io/badge/SOC%20%2F%20Blue%20Team-0D1117?style=for-the-badge&logo=shield&logoColor=00FF88" alt="SOC Blue Team"/>
-<img src="https://img.shields.io/badge/OSINT-0D1117?style=for-the-badge&logo=google&logoColor=00FF88" alt="OSINT"/>
-<img src="https://img.shields.io/badge/Web%20Security-0D1117?style=for-the-badge&logo=owasp&logoColor=00FF88" alt="Web Security"/>
-
-<br><br>
-
 ### 💻 Technologies
 
 <img src="https://skillicons.dev/icons?i=linux,python,mongodb,express,react,nodejs,git" alt="Technologies"/>
@@ -109,19 +95,6 @@ I'm particularly interested in understanding how systems and applications work, 
 <img src="https://img.shields.io/badge/Network%20Security-0D1117?style=for-the-badge&logo=wireshark&logoColor=00FF88" alt="Network Security"/>
 
 </div>
-
----
-
-## 🎯 Cybersecurity Interests
-
-| 🛡️ Security Area | 🛡️ Security Area          |
-| ----------------- | -------------------------- |
-| SOC / Blue Team   | Ethical Hacking / Red Team |
-| Threat Hunting    | Web Application Security   |
-| Digital Forensics | OSINT                      |
-| Malware Analysis  | Network Security           |
-| GRC               | Linux Security             |
-| Cloud Security    | CTFs                       |
 
 ---
 
@@ -155,8 +128,8 @@ I'm particularly interested in understanding how systems and applications work, 
 
 </div>
 
-🏅 **Introduction to Cybersecurity**
-**Cisco Networking Academy**
+🏅 **Introduction to Cybersecurity**  
+**Cisco Networking Academy**  
 📅 Completed: July 18, 2026
 
 ---
@@ -167,12 +140,12 @@ I'm particularly interested in understanding how systems and applications work, 
 
 </div>
 
-🏅 **Cybersecurity Fundamentals**
-**IBM SkillsBuild**
+🏅 **Cybersecurity Fundamentals**  
+**IBM SkillsBuild**  
 📅 Issued: July 22, 2026
 
-🏅 **Getting Started with Cybersecurity**
-**IBM SkillsBuild**
+🏅 **Getting Started with Cybersecurity**  
+**IBM SkillsBuild**  
 📅 Issued: July 26, 2026
 
 ---
@@ -186,8 +159,8 @@ I'm particularly interested in understanding how systems and applications work, 
 
 </div>
 
-🏅 **Career Essentials in Generative AI**
-**Microsoft & LinkedIn Learning**
+🏅 **Career Essentials in Generative AI**  
+**Microsoft & LinkedIn Learning**  
 📅 Completed: August 11, 2026
 
 ---
@@ -222,42 +195,6 @@ I'm particularly interested in understanding how systems and applications work, 
 
 ---
 
-## ⚡ Fun Facts About Me
-
-* 🏴‍☠️ **CTF Enthusiast** — I enjoy solving Capture The Flag challenges and exploring cybersecurity problems.
-* 🎨 **Editing** — I enjoy creative editing and experimenting with different styles.
-* 🎵 **Music Lover** — Music is part of my everyday life.
-* 🎮 **Gaming** — I enjoy gaming in my free time.
-* ✈️ **Travel** — I enjoy travelling and exploring new places.
-
----
-
-## ❤️ Personal Interests
-
-<div align="center">
-
-🔐 Cybersecurity   •  
-🏴‍☠️ CTFs   •  
-🐧 Linux   •  
-🔎 OSINT
-
-<br><br>
-
-🌐 Networking   •  
-🕸️ Web Security   •  
-🎨 Editing   •  
-🎵 Music
-
-<br><br>
-
-🎮 Gaming   •  
-✈️ Travel   •  
-🧠 Learning New Technologies
-
-</div>
-
----
-
 ## 🧰 Technical Focus
 
 <div align="center">
@@ -275,6 +212,42 @@ I'm particularly interested in understanding how systems and applications work, 
 <br>
 
 > 📚 I'm continuously developing my technical skills through cybersecurity learning, practical exploration, and hands-on challenges.
+
+---
+
+## ⚡ Fun Facts About Me
+
+- 🏴‍☠️ **CTF Enthusiast** — I enjoy solving Capture The Flag challenges and exploring cybersecurity problems.
+- 🎨 **Editing** — I enjoy creative editing and experimenting with different styles.
+- 🎵 **Music Lover** — Music is part of my everyday life.
+- 🎮 **Gaming** — I enjoy gaming in my free time.
+- ✈️ **Travel** — I enjoy travelling and exploring new places.
+
+---
+
+## ❤️ Personal Interests
+
+<div align="center">
+
+🔐 Cybersecurity &nbsp; • &nbsp;
+🏴‍☠️ CTFs &nbsp; • &nbsp;
+🐧 Linux &nbsp; • &nbsp;
+🔎 OSINT
+
+<br><br>
+
+🌐 Networking &nbsp; • &nbsp;
+🕸️ Web Security &nbsp; • &nbsp;
+🎨 Editing &nbsp; • &nbsp;
+🎵 Music
+
+<br><br>
+
+🎮 Gaming &nbsp; • &nbsp;
+✈️ Travel &nbsp; • &nbsp;
+🧠 Learning New Technologies
+
+</div>
 
 ---
 
