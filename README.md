@@ -4,10 +4,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=750&lines=%5B%2B%5D+Initializing+Cybersecurity+Profile...;%5B%2B%5D+Loading+Security+Modules...;%5B%2B%5D+Learning+%7C+Practicing+%7C+Securing;%5B%2B%5D+SOC+%7C+OSINT+%7C+Linux+%7C+Web+Security;%5B%2B%5D+Welcome+to+my+Cyber+Space+%F0%9F%9B%A1%EF%B8%8F" alt="Cybersecurity Typing Animation"/>
-
-<br>
-
 <p>
   <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" alt="Online"/>
   <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY%20STUDENT-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black" alt="Cybersecurity Student"/>
@@ -163,6 +159,21 @@ I'm particularly interested in understanding how systems and applications work, 
 **Microsoft & LinkedIn Learning**  
 📅 Completed: August 11, 2026
 
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DUBAI%20FUTURE%20FOUNDATION-0D1117?style=for-the-badge&logoColor=00AEEF" alt="Dubai Future Foundation"/>
+<img src="https://img.shields.io/badge/DUBAI%20CENTRE%20FOR%20AI-0D1117?style=for-the-badge&logoColor=00AEEF" alt="Dubai Centre for Artificial Intelligence"/>
+
+</div>
+
+🏅 **One Million Prompters — Certificate of Completion**  
+**Dubai Future Foundation**  
+**Dubai Centre for Artificial Intelligence**
+
+📜 Successfully completed the **One Million Prompters initiative**, focused on developing skills in **prompt engineering for AI systems**, in alignment with the **Dubai Universal Blueprint for Artificial Intelligence**.
+
 ---
 
 # 📊 `github_stats`
@@ -271,7 +282,7 @@ I'm particularly interested in understanding how systems and applications work, 
 <img src="https://img.shields.io/badge/GitHub-sinanmspk-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sinanmspk">
+<a href="https://www.linkedin.com/in/sin anmspk">
 <img src="https://img.shields.io/badge/LinkedIn-sinanmspk-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
